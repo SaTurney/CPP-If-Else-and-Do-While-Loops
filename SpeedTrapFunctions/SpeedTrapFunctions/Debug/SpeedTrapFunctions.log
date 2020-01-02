@@ -1,0 +1,6 @@
+﻿  SpeedTrapFunctions.cpp
+c:\users\sabrina\desktop\school\summer 2019\c++\assignment 1\speedtrapfunctions\speedtrapfunctions\speedtrapfunctions.cpp(45): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sabrina\desktop\school\summer 2019\c++\assignment 1\speedtrapfunctions\speedtrapfunctions\speedtrapfunctions.cpp(76): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\sabrina\desktop\school\summer 2019\c++\assignment 1\speedtrapfunctions\speedtrapfunctions\speedtrapfunctions.cpp(80): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\sabrina\desktop\school\summer 2019\c++\assignment 1\speedtrapfunctions\speedtrapfunctions\speedtrapfunctions.cpp(84): warning C4305: '=': truncation from 'double' to 'float'
+  SpeedTrapFunctions.vcxproj -> C:\Users\Sabrina\Desktop\School\Summer 2019\C++\Assignment 1\SpeedTrapFunctions\Debug\SpeedTrapFunctions.exe
